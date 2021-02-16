@@ -1,5 +1,7 @@
 .DS_Store
-node_modules
-lib
-compiled
 *.log
+.idea/
+lib
+node_modules
+test.html
+/**/npmignore
